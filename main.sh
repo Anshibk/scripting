@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if [ ! -e hello ]
+if [ ! -e /tmp/hello ]
 then
 touch /tmp/hello
 else 
